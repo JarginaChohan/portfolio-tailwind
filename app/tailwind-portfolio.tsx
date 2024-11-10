@@ -95,7 +95,7 @@ export default function Portfolio() {
                 { name: 'MS Office', icon: '📊' },
                 { name: 'HR Management', icon: '👥' },
                 { name: 'Project Management', icon: '📅' }
-              ].map((skill, index) => (
+              ].map((skill) => (
                 <div
                   key={skill.name}
                   className="bg-gradient-to-br from-teal-50 to-rose-50 rounded-lg p-6 text-center shadow-md hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1"
