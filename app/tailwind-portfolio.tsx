@@ -131,12 +131,12 @@ export default function Portfolio() {
         <section id="contact" ref={sectionRefs.contact} className="bg-gradient-to-br from-teal-900 to-gray-900 text-white py-20 px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl font-bold mb-8 animate-fade-in">Get in Touch</h2>
-            <p className="text-xl mb-8 animate-fade-in-delay-1">I'm always open to new opportunities and collaborations. Feel free to reach out!</p>
+            <p className="text-xl mb-8 animate-fade-in-delay-1">I am always open to new opportunities and collaborations. Feel free to reach out!</p>
             <div className="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-6 animate-fade-in-delay-2">
               <a href="mailto:jargina.chohan7@gmail.com" className="bg-teal-600 hover:bg-teal-700 text-white font-bold py-3 px-6 rounded-full transition duration-300 transform hover:-translate-y-1">
                 Email Me
               </a>
-              <p className="text-gray-300">Phone: 0336-2824083</p>
+              <p className="text-gray-300">Phone: 0336-2xxxxx</p>
             </div>
             <div className="mt-12 flex justify-center space-x-8 animate-fade-in-delay-3">
               {[
